@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/eximvayv2/static/css/main.470b99c6.css",
+    "main.js": "/eximvayv2/static/js/main.804e04d4.js",
+    "static/media/diamond.jpg": "/eximvayv2/static/media/diamond.87e37b654caecc01beb4.jpg",
+    "static/media/jwellery.jpg": "/eximvayv2/static/media/jwellery.c0f009b2d67c43b66d5e.jpg",
+    "static/media/coffee.jpg": "/eximvayv2/static/media/coffee.19028a4120ab588a9534.jpg",
+    "static/media/pearl.jpg": "/eximvayv2/static/media/pearl.bb40a89dd0a0ec8b43fe.jpg",
+    "static/media/tea.jpg": "/eximvayv2/static/media/tea.2d1f410578fecfd98a6f.jpg",
+    "static/media/apparel.jpg": "/eximvayv2/static/media/apparel.efadb661095ff9718484.jpg",
+    "static/media/laptop.jpg": "/eximvayv2/static/media/laptop.45ddf500e572fb2f1d35.jpg",
+    "static/media/shipping.jpg": "/eximvayv2/static/media/shipping.08ed4855624a7c33b3ac.jpg",
+    "static/media/cargo-ships.jpg": "/eximvayv2/static/media/cargo-ships.bf100b3868a8c8366edb.jpg",
+    "static/media/single.png": "/eximvayv2/static/media/single.20196aa3e7e7fa48f8f7.png",
+    "static/media/double.png": "/eximvayv2/static/media/double.8be045e6bb88be63d414.png",
+    "static/media/triple.png": "/eximvayv2/static/media/triple.4eb8f19f4b4647321484.png",
+    "index.html": "/eximvayv2/index.html",
+    "main.470b99c6.css.map": "/eximvayv2/static/css/main.470b99c6.css.map",
+    "main.804e04d4.js.map": "/eximvayv2/static/js/main.804e04d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.470b99c6.css",
+    "static/js/main.804e04d4.js"
+  ]
+}
